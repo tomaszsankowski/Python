@@ -42,4 +42,4 @@ This repository serves as an archive for my Python mini-projects and university 
 
 ---
 
-_Note_: Each directory contains its own README.md file with a more detailed description of the specific project, its logic, and its results.
+_Note: Each directory contains its own README.md file with a more detailed description of the specific project, its logic, and its results._
